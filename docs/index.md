@@ -1,84 +1,80 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Thiago Santos's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Thiago Santos
+An Accountant that has a passion for data science
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="san21068@byui.edu">san21068@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/thiagosantos88/">LinkedIn</a>
+| <a href="https:/github.com/thiagosantos88/">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2010-2012`
+__FAE Business College__, Brazil
 
-- Full academic scholarship with 4.0 GPA
 
-`Expected 2029`
+`2019-2020`
+__Ensign College__, Salt Lake City, UT
+
+- Service/Leadership  academic scholarship
+
+`2021-2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Mentor at Student Accounting Society
 
+## Skills
+
+- Language - Capacity to communicate effectively in English, Spanish, and Portuguese
+- Accounting - Experience with accounting cycle, cash flow management, FP&A, data analysis
+- Excel and Softwares - MS Excel Specialist, Tableau,  Power BI, SQL, PeopleSoft, Workday, Totvs, Quickbooks Certified
 
 ## Related Experience
 
-### Internships
+### Internship Advisor
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`September 2022 - December 2023`
+__Brigham Young University - Idaho__, Rexburg, Idaho
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Helped more than 150 students per month to find and success on their internship
+- Managed 8 Internship classes to support  Faculty coordinators from the Business department
 
-### Data Science Lead
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+### Audit/ Tax Summer Intern
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`June 2022- August 2022`
+__Harris CPAs__, Boise, Idaho
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- Prepare tax return for individual and organizations, using PrepTax
+- Performed accounting tasks necessary to the preparation of financial statements, engagement of audits, reviews, and compilations
+- Participated in weekly meetings, and planning meeting to set deadline and performance in auditings.
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+### Accounting Payable - Treasury
+`November 2020 - September 2021`
+__The Church of Jesus Christ of Latter-day Saints__, Salt Lake City, Utah
 
-### Data Science Consulting Team
+- Controlled internal tasks like, bank deposits, 1099 report, and reimbursement
+- Created the fist Knowled Gase (KB) training to the whole department regarding Brazilian Invoices
+- Updated KB for mailing control, bank deposit, documents validation, PO'S and vendors exceptions process, Global invoices validations
 
-`January 2027 - April 2027`
-__Imagine Learning__
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2022-22023`
+__Accouting Software Tutor__, BYU-Idaho
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2007-2009`
+__Service Missionary__, Sao Paulo, Brazil
 
 
 
